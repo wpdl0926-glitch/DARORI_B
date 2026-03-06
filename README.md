@@ -1,4 +1,4 @@
-# [다로리인_B팀]
+<img width="640" height="360" alt="image" src="https://github.com/user-attachments/assets/7469c33a-3b20-4ce8-bf3f-886e5ef5e8dd" /># [TEAM 포로리]
 
 ## 📌 Overview
 돌봄 인프라가 갖춰진 마을은 살고 싶은 마을이 됩니다. 마을돌봄공동체를 운영하고 확산하며, 지역의 지속가능성을 실험합니다.
