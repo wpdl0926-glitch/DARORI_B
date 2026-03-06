@@ -34,3 +34,7 @@
 - **이서용:** [역할/담당]
 - **정승환:** [역할/담당]
 - **정채윤:** [역할/담당]
+
+
+### Practice
+Small change for in-class Git practice.
